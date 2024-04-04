@@ -1,0 +1,10 @@
+Documentacion:
+
+Primera prueba, el codigo no tenia las condiciones necesarias que cumplian con las necesidades dictadas por el docente.
+Segunda prueba, valores no leidos correctamente, error al intentar ingresar valores enteros.
+Tercera prueba, se cumplio con exito las pruebas. El codigo ahora cumple con todas las necesidades dictadas en la actividad.
+
+Actividades destacables:
+Importancia en la definicion de las librerias
+Importancia en la creacion de las condiciones
+Importancia de agregar una opcion que permita al usuario salir de la ejecucion
